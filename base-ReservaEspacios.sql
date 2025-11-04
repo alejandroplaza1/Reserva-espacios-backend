@@ -1,0 +1,26 @@
+CREATE DATABASE ReservaEspacios;
+CREATE TABLE Usuarios (
+    Id SERIAL PRIMARY KEY,
+    Nombre VARCHAR(100) NOT NULL,
+    Email VARCHAR(150) UNIQUE NOT NULL,
+    PasswordHash VARCHAR(255) NOT NULL,
+    Rol VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Espacios (
+    Id SERIAL PRIMARY KEY,
+    Nombre VARCHAR(100) NOT NULL,
+    Tipo VARCHAR(50) NOT NULL,
+    Capacidad INT NOT NULL
+);
+
+CREATE TABLE Reservas (
+    Id SERIAL PRIMARY KEY,
+    UsuarioId INT NOT NULL,
+    EspacioId INT NOT NULL,
+    FechaInicio TIMESTAMP NOT NULL,
+    FechaFin TIMESTAMP NOT NULL,
+    Estado VARCHAR(50) NOT NULL,
+    FOREIGN KEY (UsuarioId) REFERENCES Usuarios(Id),
+    FOREIGN KEY (EspacioId) REFERENCES Espacios(Id)
+);
