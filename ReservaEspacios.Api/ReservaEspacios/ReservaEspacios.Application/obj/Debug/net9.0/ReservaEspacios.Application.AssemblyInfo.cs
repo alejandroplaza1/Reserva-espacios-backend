@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReservaEspacios.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8a92742d181f13942a02ed698ec1fc88d64c298")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7e3d1f21d96ca8f65e6434a69ce6adb9ff38042")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReservaEspacios.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReservaEspacios.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

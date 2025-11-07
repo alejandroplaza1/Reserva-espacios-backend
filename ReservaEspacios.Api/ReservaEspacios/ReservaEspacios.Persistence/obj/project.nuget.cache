@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "iV4SCjv07DQ=",
+  "dgSpecHash": "tasHGKbApIk=",
   "success": true,
   "projectFilePath": "C:\\Users\\alejandro.plazacolet\\Documents\\GitHub\\Reserva-espacios-backend\\ReservaEspacios.Api\\ReservaEspacios\\ReservaEspacios.Persistence\\ReservaEspacios.Persistence.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\alejandro.plazacolet\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\alejandro.plazacolet\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
   "logs": []
 }
