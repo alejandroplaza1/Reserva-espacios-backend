@@ -1,5 +1,4 @@
 version: '3.8'
-
 services:
   sqlserver:
     image: mcr.microsoft.com/mssql/server:2025-latest
@@ -16,12 +15,11 @@ services:
 
   backend:
     build:
-      context: ./reserva-espacios-back
+      context: ./reserva-espacios-backend
       dockerfile: Dockerfile.backend
     container_name: backend
     depends_on:
       - sqlserver
-      - kafka
     environment:
       - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=ReservasDB;User Id=sa;Password=TuPasswordSegura123;
     ports:
@@ -34,10 +32,10 @@ services:
       context: ./reserva-espacios-front
       dockerfile: Dockerfile.frontend
     container_name: frontend
-    ports:
-      - "4200:80"
     depends_on:
       - backend
+    ports:
+      - "4200:80"
     networks:
       - reserva-net
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReservaEspacios.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7e3d1f21d96ca8f65e6434a69ce6adb9ff38042")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17a8e2b5f39f4c9c31a282aa6514996e9f190234")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReservaEspacios.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReservaEspacios.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
