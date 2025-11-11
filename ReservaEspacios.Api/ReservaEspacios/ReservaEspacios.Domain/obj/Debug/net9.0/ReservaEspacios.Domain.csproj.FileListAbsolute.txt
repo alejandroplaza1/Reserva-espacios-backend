@@ -1,0 +1,13 @@
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Domain\bin\Debug\net9.0\ReservaEspacios.Domain.deps.json
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Domain\bin\Debug\net9.0\ReservaEspacios.Domain.dll
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Domain\bin\Debug\net9.0\ReservaEspacios.Domain.pdb
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Domain\obj\Debug\net9.0\ReservaEspacios.Domain.csproj.AssemblyReference.cache
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Domain\obj\Debug\net9.0\ReservaEspacios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Domain\obj\Debug\net9.0\ReservaEspacios.Domain.AssemblyInfoInputs.cache
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Domain\obj\Debug\net9.0\ReservaEspacios.Domain.AssemblyInfo.cs
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Domain\obj\Debug\net9.0\ReservaEspacios.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Domain\obj\Debug\net9.0\ReservaEspacios.Domain.sourcelink.json
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Domain\obj\Debug\net9.0\ReservaEspacios.Domain.dll
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Domain\obj\Debug\net9.0\refint\ReservaEspacios.Domain.dll
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Domain\obj\Debug\net9.0\ReservaEspacios.Domain.pdb
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Domain\obj\Debug\net9.0\ref\ReservaEspacios.Domain.dll
