@@ -16,7 +16,7 @@ services:
   backend:
     build:
       context: ./reserva-espacios-backend
-      dockerfile: Dockerfile.backend
+      dockerfile: dockerfile.backend
     container_name: backend
     depends_on:
       - sqlserver
@@ -30,7 +30,7 @@ services:
   frontend:
     build:
       context: ./reserva-espacios-front
-      dockerfile: Dockerfile.frontend
+      dockerfile: dockerfile.frontend
     container_name: frontend
     depends_on:
       - backend

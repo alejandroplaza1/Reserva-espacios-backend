@@ -1,0 +1,16 @@
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\bin\Release\net8.0\ReservaEspacios.Application.deps.json
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\bin\Release\net8.0\ReservaEspacios.Application.dll
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\bin\Release\net8.0\ReservaEspacios.Application.pdb
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\bin\Release\net8.0\ReservaEspacios.Domain.dll
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\bin\Release\net8.0\ReservaEspacios.Domain.pdb
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\obj\Release\net8.0\ReservaEspacios.Application.csproj.AssemblyReference.cache
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\obj\Release\net8.0\ReservaEspacios.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\obj\Release\net8.0\ReservaEspacios.Application.AssemblyInfoInputs.cache
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\obj\Release\net8.0\ReservaEspacios.Application.AssemblyInfo.cs
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\obj\Release\net8.0\ReservaEspacios.Application.csproj.CoreCompileInputs.cache
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\obj\Release\net8.0\ReservaEspacios.Application.sourcelink.json
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\obj\Release\net8.0\ReservaE.A6D7FD1A.Up2Date
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\obj\Release\net8.0\ReservaEspacios.Application.dll
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\obj\Release\net8.0\refint\ReservaEspacios.Application.dll
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\obj\Release\net8.0\ReservaEspacios.Application.pdb
+C:\Users\alejandro.plazacolet\Documents\GitHub\Reserva-espacios-backend\ReservaEspacios.Api\ReservaEspacios\ReservaEspacios.Application\obj\Release\net8.0\ref\ReservaEspacios.Application.dll
